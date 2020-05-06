@@ -1,0 +1,1151 @@
+
+  “FullName” : “Opportunity.Competitor__c”
+
+}
+
+2nd HTTP Call
+PATCH
+
+/services/data/v41.0/tooling/sobjects/RecordType/012f20000009x5X
+
+{“Metadata” : {
+
+    “active” : true,
+
+    “businessProcess” : “Buyer Process”,
+
+    “compactLayoutAssignment” : null,
+
+    “description” : “This is used to capture Data Store Buyer agreements”,
+
+    “label” : “Data Store Buyer”,
+
+    “picklistValues” : [ {
+
+      “picklist” : “ForecastCategoryName”,
+
+      “values” : [ {
+
+        “allowEmail” : null,
+
+        “closed” : null,
+
+        “color” : null,
+
+        “controllingFieldValues” : null,
+
+        “converted” : null,
+
+        “cssExposed” : null,
+
+        “default” : false,
+
+        “description” : null,
+
+        “forecastCategory” : null,
+
+        “highPriority” : null,
+
+        “isActive” : null,
+
+        “probability” : null,
+
+        “reverseRole” : null,
+
+        “reviewed” : null,
+
+        “urls” : null,
+
+        “valueName” : “Best Case”,
+
+        “won” : null
+
+      }, {
+
+        “allowEmail” : null,
+
+        “closed” : null,
+
+        “color” : null,
+
+        “controllingFieldValues” : null,
+
+        “converted” : null,
+
+        “cssExposed” : null,
+
+        “default” : false,
+
+        “description” : null,
+
+        “forecastCategory” : null,
+
+        “highPriority” : null,
+
+        “isActive” : null,
+
+        “probability” : null,
+
+        “reverseRole” : null,
+
+        “reviewed” : null,
+
+        “urls” : null,
+
+        “valueName” : “Closed”,
+
+        “won” : null
+
+      }, {
+
+        “allowEmail” : null,
+
+        “closed” : null,
+
+        “color” : null,
+
+        “controllingFieldValues” : null,
+
+        “converted” : null,
+
+        “cssExposed” : null,
+
+        “default” : false,
+
+        “description” : null,
+
+        “forecastCategory” : null,
+
+        “highPriority” : null,
+
+        “isActive” : null,
+
+        “probability” : null,
+
+        “reverseRole” : null,
+
+        “reviewed” : null,
+
+        “urls” : null,
+
+        “valueName” : “Commit”,
+
+        “won” : null
+
+      }, {
+
+        “allowEmail” : null,
+
+        “closed” : null,
+
+        “color” : null,
+
+        “controllingFieldValues” : null,
+
+        “converted” : null,
+
+        “cssExposed” : null,
+
+        “default” : false,
+
+        “description” : null,
+
+        “forecastCategory” : null,
+
+        “highPriority” : null,
+
+        “isActive” : null,
+
+        “probability” : null,
+
+        “reverseRole” : null,
+
+        “reviewed” : null,
+
+        “urls” : null,
+
+        “valueName” : “Omitted”,
+
+        “won” : null
+
+      }, {
+
+        “allowEmail” : null,
+
+        “closed” : null,
+
+        “color” : null,
+
+        “controllingFieldValues” : null,
+
+        “converted” : null,
+
+        “cssExposed” : null,
+
+        “default” : false,
+
+        “description” : null,
+
+        “forecastCategory” : null,
+
+        “highPriority” : null,
+
+        “isActive” : null,
+
+        “probability” : null,
+
+        “reverseRole” : null,
+
+        “reviewed” : null,
+
+        “urls” : null,
+
+        “valueName” : “Pipeline”,
+
+        “won” : null
+
+      } ]
+
+    },
+
+{
+
+      “picklist” : “Competitor__c”,
+
+      “values” : [ {
+
+         “valueName” : “ayubaa”
+
+      }, {
+
+       “valueName” : “2222”
+
+      }, {
+
+        “valueName” : “Abc”
+
+      } ]
+
+    },
+
+ {
+
+      “picklist” : “LeadSource”,
+
+      “values” : [ {
+
+        “allowEmail” : null,
+
+        “closed” : null,
+
+        “color” : null,
+
+        “controllingFieldValues” : null,
+
+        “converted” : null,
+
+        “cssExposed” : null,
+
+        “default” : false,
+
+        “description” : null,
+
+        “forecastCategory” : null,
+
+        “highPriority” : null,
+
+        “isActive” : null,
+
+        “probability” : null,
+
+        “reverseRole” : null,
+
+        “reviewed” : null,
+
+        “urls” : null,
+
+        “valueName” : “AU Website”,
+
+        “won” : null
+
+      }, {
+
+        “allowEmail” : null,
+
+        “closed” : null,
+
+        “color” : null,
+
+        “controllingFieldValues” : null,
+
+        “converted” : null,
+
+        “cssExposed” : null,
+
+        “default” : false,
+
+        “description” : null,
+
+        “forecastCategory” : null,
+
+        “highPriority” : null,
+
+        “isActive” : null,
+
+        “probability” : null,
+
+        “reverseRole” : null,
+
+        “reviewed” : null,
+
+        “urls” : null,
+
+        “valueName” : “DiscoverOrg”,
+
+        “won” : null
+
+      }, {
+
+        “allowEmail” : null,
+
+        “closed” : null,
+
+        “color” : null,
+
+        “controllingFieldValues” : null,
+
+        “converted” : null,
+
+        “cssExposed” : null,
+
+        “default” : false,
+
+        “description” : null,
+
+        “forecastCategory” : null,
+
+        “highPriority” : null,
+
+        “isActive” : null,
+
+        “probability” : null,
+
+        “reverseRole” : null,
+
+        “reviewed” : null,
+
+        “urls” : null,
+
+        “valueName” : “Download”,
+
+        “won” : null
+
+      }, {
+
+        “allowEmail” : null,
+
+        “closed” : null,
+
+        “color” : null,
+
+        “controllingFieldValues” : null,
+
+        “converted” : null,
+
+        “cssExposed” : null,
+
+        “default” : false,
+
+        “description” : null,
+
+        “forecastCategory” : null,
+
+        “highPriority” : null,
+
+        “isActive” : null,
+
+        “probability” : null,
+
+        “reverseRole” : null,
+
+        “reviewed” : null,
+
+        “urls” : null,
+
+        “valueName” : “Event”,
+
+        “won” : null
+
+      }, {
+
+        “allowEmail” : null,
+
+        “closed” : null,
+
+        “color” : null,
+
+        “controllingFieldValues” : null,
+
+        “converted” : null,
+
+        “cssExposed” : null,
+
+        “default” : false,
+
+        “description” : null,
+
+        “forecastCategory” : null,
+
+        “highPriority” : null,
+
+        “isActive” : null,
+
+        “probability” : null,
+
+        “reverseRole” : null,
+
+        “reviewed” : null,
+
+        “urls” : null,
+
+        “valueName” : “FR Download”,
+
+        “won” : null
+
+      }, {
+
+        “allowEmail” : null,
+
+        “closed” : null,
+
+        “color” : null,
+
+        “controllingFieldValues” : null,
+
+        “converted” : null,
+
+        “cssExposed” : null,
+
+        “default” : false,
+
+        “description” : null,
+
+        “forecastCategory” : null,
+
+        “highPriority” : null,
+
+        “isActive” : null,
+
+        “probability” : null,
+
+        “reverseRole” : null,
+
+        “reviewed” : null,
+
+        “urls” : null,
+
+        “valueName” : “FR Event”,
+
+        “won” : null
+
+      }, {
+
+        “allowEmail” : null,
+
+        “closed” : null,
+
+        “color” : null,
+
+        “controllingFieldValues” : null,
+
+        “converted” : null,
+
+        “cssExposed” : null,
+
+        “default” : false,
+
+        “description” : null,
+
+        “forecastCategory” : null,
+
+        “highPriority” : null,
+
+        “isActive” : null,
+
+        “probability” : null,
+
+        “reverseRole” : null,
+
+        “reviewed” : null,
+
+        “urls” : null,
+
+        “valueName” : “FR Webinar”,
+
+        “won” : null
+
+      }, {
+
+        “allowEmail” : null,
+
+        “closed” : null,
+
+        “color” : null,
+
+        “controllingFieldValues” : null,
+
+        “converted” : null,
+
+        “cssExposed” : null,
+
+        “default” : false,
+
+        “description” : null,
+
+        “forecastCategory” : null,
+
+        “highPriority” : null,
+
+        “isActive” : null,
+
+        “probability” : null,
+
+        “reverseRole” : null,
+
+        “reviewed” : null,
+
+        “urls” : null,
+
+        “valueName” : “FR Website”,
+
+        “won” : null
+
+      }, {
+
+        “allowEmail” : null,
+
+        “closed” : null,
+
+        “color” : null,
+
+        “controllingFieldValues” : null,
+
+        “converted” : null,
+
+        “cssExposed” : null,
+
+        “default” : false,
+
+        “description” : null,
+
+        “forecastCategory” : null,
+
+        “highPriority” : null,
+
+        “isActive” : null,
+
+        “probability” : null,
+
+        “reverseRole” : null,
+
+        “reviewed” : null,
+
+        “urls” : null,
+
+        “valueName” : “Inbound”,
+
+        “won” : null
+
+      }, {
+
+        “allowEmail” : null,
+
+        “closed” : null,
+
+        “color” : null,
+
+        “controllingFieldValues” : null,
+
+        “converted” : null,
+
+        “cssExposed” : null,
+
+        “default” : false,
+
+        “description” : null,
+
+        “forecastCategory” : null,
+
+        “highPriority” : null,
+
+        “isActive” : null,
+
+        “probability” : null,
+
+        “reverseRole” : null,
+
+        “reviewed” : null,
+
+        “urls” : null,
+
+        “valueName” : “List Import”,
+
+        “won” : null
+
+      }, {
+
+        “allowEmail” : null,
+
+        “closed” : null,
+
+        “color” : null,
+
+        “controllingFieldValues” : null,
+
+        “converted” : null,
+
+        “cssExposed” : null,
+
+        “default” : false,
+
+        “description” : null,
+
+        “forecastCategory” : null,
+
+        “highPriority” : null,
+
+        “isActive” : null,
+
+        “probability” : null,
+
+        “reverseRole” : null,
+
+        “reviewed” : null,
+
+        “urls” : null,
+
+        “valueName” : “Operational”,
+
+        “won” : null
+
+      }, {
+
+        “allowEmail” : null,
+
+        “closed” : null,
+
+        “color” : null,
+
+        “controllingFieldValues” : null,
+
+        “converted” : null,
+
+        “cssExposed” : null,
+
+        “default” : false,
+
+        “description” : null,
+
+        “forecastCategory” : null,
+
+        “highPriority” : null,
+
+        “isActive” : null,
+
+        “probability” : null,
+
+        “reverseRole” : null,
+
+        “reviewed” : null,
+
+        “urls” : null,
+
+        “valueName” : “Outbound”,
+
+        “won” : null
+
+      }, {
+
+        “allowEmail” : null,
+
+        “closed” : null,
+
+        “color” : null,
+
+        “controllingFieldValues” : null,
+
+        “converted” : null,
+
+        “cssExposed” : null,
+
+        “default” : false,
+
+        “description” : null,
+
+        “forecastCategory” : null,
+
+        “highPriority” : null,
+
+        “isActive” : null,
+
+        “probability” : null,
+
+        “reverseRole” : null,
+
+        “reviewed” : null,
+
+        “urls” : null,
+
+        “valueName” : “Referral”,
+
+        “won” : null
+
+      }, {
+
+        “allowEmail” : null,
+
+        “closed” : null,
+
+        “color” : null,
+
+        “controllingFieldValues” : null,
+
+        “converted” : null,
+
+        “cssExposed” : null,
+
+        “default” : false,
+
+        “description” : null,
+
+        “forecastCategory” : null,
+
+        “highPriority” : null,
+
+        “isActive” : null,
+
+        “probability” : null,
+
+        “reverseRole” : null,
+
+        “reviewed” : null,
+
+        “urls” : null,
+
+        “valueName” : “Webinar”,
+
+        “won” : null
+
+      }, {
+
+        “allowEmail” : null,
+
+        “closed” : null,
+
+        “color” : null,
+
+        “controllingFieldValues” : null,
+
+        “converted” : null,
+
+        “cssExposed” : null,
+
+        “default” : false,
+
+        “description” : null,
+
+        “forecastCategory” : null,
+
+        “highPriority” : null,
+
+        “isActive” : null,
+
+        “probability” : null,
+
+        “reverseRole” : null,
+
+        “reviewed” : null,
+
+        “urls” : null,
+
+        “valueName” : “Website”,
+
+        “won” : null
+
+      }, {
+
+        “allowEmail” : null,
+
+        “closed” : null,
+
+        “color” : null,
+
+        “controllingFieldValues” : null,
+
+        “converted” : null,
+
+        “cssExposed” : null,
+
+        “default” : false,
+
+        “description” : null,
+
+        “forecastCategory” : null,
+
+        “highPriority” : null,
+
+        “isActive” : null,
+
+        “probability” : null,
+
+        “reverseRole” : null,
+
+        “reviewed” : null,
+
+        “urls” : null,
+
+        “valueName” : “Website – UK”,
+
+        “won” : null
+
+      } ]
+
+    }, {
+
+      “picklist” : “Type”,
+
+      “values” : [ {
+
+        “allowEmail” : null,
+
+        “closed” : null,
+
+        “color” : null,
+
+        “controllingFieldValues” : null,
+
+        “converted” : null,
+
+        “cssExposed” : null,
+
+        “default” : false,
+
+        “description” : null,
+
+        “forecastCategory” : null,
+
+        “highPriority” : null,
+
+        “isActive” : null,
+
+        “probability” : null,
+
+        “reverseRole” : null,
+
+        “reviewed” : null,
+
+        “urls” : null,
+
+        “valueName” : “New Business %E2%80%93 TFC”,
+
+        “won” : null
+
+      }, {
+
+        “allowEmail” : null,
+
+        “closed” : null,
+
+        “color” : null,
+
+        “controllingFieldValues” : null,
+
+        “converted” : null,
+
+        “cssExposed” : null,
+
+        “default” : false,
+
+        “description” : null,
+
+        “forecastCategory” : null,
+
+        “highPriority” : null,
+
+        “isActive” : null,
+
+        “probability” : null,
+
+        “reverseRole” : null,
+
+        “reviewed” : null,
+
+        “urls” : null,
+
+        “valueName” : “New Business – Acxiom Contract”,
+
+        “won” : null
+
+      }, {
+
+        “allowEmail” : null,
+
+        “closed” : null,
+
+        “color” : null,
+
+        “controllingFieldValues” : null,
+
+        “converted” : null,
+
+        “cssExposed” : null,
+
+        “default” : false,
+
+        “description” : null,
+
+        “forecastCategory” : null,
+
+        “highPriority” : null,
+
+        “isActive” : null,
+
+        “probability” : null,
+
+        “reverseRole” : null,
+
+        “reviewed” : null,
+
+        “urls” : null,
+
+        “valueName” : “New Business – Full Term”,
+
+        “won” : null
+
+      }, {
+
+        “allowEmail” : null,
+
+        “closed” : null,
+
+        “color” : null,
+
+        “controllingFieldValues” : null,
+
+        “converted” : null,
+
+        “cssExposed” : null,
+
+        “default” : false,
+
+        “description” : null,
+
+        “forecastCategory” : null,
+
+        “highPriority” : null,
+
+        “isActive” : null,
+
+        “probability” : null,
+
+        “reverseRole” : null,
+
+        “reviewed” : null,
+
+        “urls” : null,
+
+        “valueName” : “New Business – Pilot”,
+
+        “won” : null
+
+      }, {
+
+        “allowEmail” : null,
+
+        “closed” : null,
+
+        “color” : null,
+
+        “controllingFieldValues” : null,
+
+        “converted” : null,
+
+        “cssExposed” : null,
+
+        “default” : false,
+
+        “description” : null,
+
+        “forecastCategory” : null,
+
+        “highPriority” : null,
+
+        “isActive” : null,
+
+        “probability” : null,
+
+        “reverseRole” : null,
+
+        “reviewed” : null,
+
+        “urls” : null,
+
+        “valueName” : “Renewal”,
+
+        “won” : null
+
+      }, {
+
+        “allowEmail” : null,
+
+        “closed” : null,
+
+        “color” : null,
+
+        “controllingFieldValues” : null,
+
+        “converted” : null,
+
+        “cssExposed” : null,
+
+        “default” : false,
+
+        “description” : null,
+
+        “forecastCategory” : null,
+
+        “highPriority” : null,
+
+        “isActive” : null,
+
+        “probability” : null,
+
+        “reverseRole” : null,
+
+        “reviewed” : null,
+
+        “urls” : null,
+
+        “valueName” : “Renewal – TFC”,
+
+        “won” : null
+
+      }, {
+
+        “allowEmail” : null,
+
+        “closed” : null,
+
+        “color” : null,
+
+        “controllingFieldValues” : null,
+
+        “converted” : null,
+
+        “cssExposed” : null,
+
+        “default” : false,
+
+        “description” : null,
+
+        “forecastCategory” : null,
+
+        “highPriority” : null,
+
+        “isActive” : null,
+
+        “probability” : null,
+
+        “reverseRole” : null,
+
+        “reviewed” : null,
+
+        “urls” : null,
+
+        “valueName” : “Upsell”,
+
+        “won” : null
+
+      }, {
+
+        “allowEmail” : null,
+
+        “closed” : null,
+
+        “color” : null,
+
+        “controllingFieldValues” : null,
+
+        “converted” : null,
+
+        “cssExposed” : null,
+
+        “default” : false,
+
+        “description” : null,
+
+        “forecastCategory” : null,
+
+        “highPriority” : null,
+
+        “isActive” : null,
+
+        “probability” : null,
+
+        “reverseRole” : null,
+
+        “reviewed” : null,
+
+        “urls” : null,
+
+        “valueName” : “Upsell – Auto-Renewal Increase”,
+
+        “won” : null
+
+      }, {
+
+        “allowEmail” : null,
+
+        “closed” : null,
+
+        “color” : null,
+
+        “controllingFieldValues” : null,
+
+        “converted” : null,
+
+        “cssExposed” : null,
+
+        “default” : false,
+
+        “description” : null,
+
+        “forecastCategory” : null,
+
+        “highPriority” : null,
+
+        “isActive” : null,
+
+        “probability” : null,
+
+        “reverseRole” : null,
+
+        “reviewed” : null,
+
+        “urls” : null,
+
+        “valueName” : “Upsell – TFC”,
+
+        “won” : null
+
+      } ]
+
+    } ],
+
+    “urls” : null
+
+  },
+
+  “FullName” : “Opportunity.Data_Store_Buyer”
+
+}
