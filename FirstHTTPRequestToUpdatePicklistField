@@ -1,0 +1,585 @@
+{
+
+“Metadata” : {
+
+    “businessOwnerGroup” : null,
+
+    “businessOwnerUser” : null,
+
+    “businessStatus” : null,
+
+    “caseSensitive” : null,
+
+    “customDataType” : null,
+
+    “defaultValue” : null,
+
+    “deleteConstraint” : null,
+
+    “deprecated” : null,
+
+    “description” : null,
+
+    “displayFormat” : null,
+
+    “displayLocationInDecimal” : null,
+
+    “encrypted” : null,
+
+    “escapeMarkup” : null,
+
+    “externalDeveloperName” : null,
+
+    “externalId” : false,
+
+    “formula” : null,
+
+    “formulaTreatBlanksAs” : null,
+
+    “inlineHelpText” : null,
+
+    “isConvertLeadDisabled” : null,
+
+    “isFilteringDisabled” : null,
+
+    “isNameField” : null,
+
+    “isSortingDisabled” : null,
+
+    “label” : “Competitor”,
+
+    “length” : null,
+
+    “lookupFilter” : null,
+
+    “maskChar” : null,
+
+    “maskType” : null,
+
+    “metadataRelationshipControllingField” : null,
+
+    “populateExistingRows” : null,
+
+    “precision” : null,
+
+    “readOnlyProxy” : null,
+
+    “referenceTargetField” : null,
+
+    “referenceTo” : null,
+
+    “relationshipLabel” : null,
+
+    “relationshipName” : null,
+
+    “relationshipOrder” : null,
+
+    “reparentableMasterDetail” : null,
+
+    “required” : false,
+
+    “restrictedAdminField” : null,
+
+    “scale” : null,
+
+    “securityClassification” : null,
+
+    “startingNumber” : null,
+
+    “stripMarkup” : null,
+
+    “summarizedField” : null,
+
+    “summaryFilterItems” : null,
+
+    “summaryForeignKey” : null,
+
+    “summaryOperation” : null,
+
+    “trackFeedHistory” : false,
+
+    “trackHistory” : false,
+
+    “trackTrending” : null,
+
+    “type” : “Picklist”,
+
+    “unique” : null,
+
+    “urls” : null,
+
+    “valueSet” : {
+
+      “controllingField” : “LR_Reason_Lost__c”,
+
+      “restricted” : null,
+
+      “valueSetDefinition” : {
+
+        “sorted” : true,
+
+        “value” : [ {
+
+          “color” : null,
+
+          “default” : false,
+
+          “description” : null,
+
+          “isActive” : null,
+
+          “label” : “2222”,
+
+          “urls” : null,
+
+          “valueName” : “2222”
+
+        }, {
+
+          “color” : null,
+
+          “default” : false,
+
+          “description” : null,
+
+          “isActive” : null,
+
+          “label” : “Abc”,
+
+          “urls” : null,
+
+          “valueName” : “Abc”
+
+        }, {
+
+          “color” : null,
+
+          “default” : false,
+
+          “description” : null,
+
+          “isActive” : null,
+
+          “label” : “asdffcd”,
+
+          “urls” : null,
+
+          “valueName” : “asdffcd”
+
+        }, {
+
+          “color” : null,
+
+          “default” : false,
+
+          “description” : null,
+
+          “isActive” : null,
+
+          “label” : “Blah Blah”,
+
+          “urls” : null,
+
+          “valueName” : “Blah Blah”
+
+        }, {
+
+          “color” : null,
+
+          “default” : false,
+
+          “description” : null,
+
+          “isActive” : null,
+
+          “label” : “chab”,
+
+          “urls” : null,
+
+          “valueName” : “chab”
+
+        }, {
+
+          “color” : null,
+
+          “default” : false,
+
+          “description” : null,
+
+          “isActive” : null,
+
+          “label” : “com”,
+
+          “urls” : null,
+
+          “valueName” : “com”
+
+        }, {
+
+          “color” : null,
+
+          “default” : false,
+
+          “description” : null,
+
+          “isActive” : null,
+
+          “label” : “list”,
+
+          “urls” : null,
+
+          “valueName” : “list”
+
+        }, {
+
+          “color” : null,
+
+          “default” : false,
+
+          “description” : null,
+
+          “isActive” : null,
+
+          “label” : “Listen”,
+
+          “urls” : null,
+
+          “valueName” : “Listen”
+
+        }, {
+
+          “color” : null,
+
+          “default” : false,
+
+          “description” : null,
+
+          “isActive” : null,
+
+          “label” : “New Value”,
+
+          “urls” : null,
+
+          “valueName” : “New Value”
+
+        }, {
+
+          “color” : null,
+
+          “default” : false,
+
+          “description” : null,
+
+          “isActive” : null,
+
+          “label” : “qwerty”,
+
+          “urls” : null,
+
+          “valueName” : “qwerty”
+
+        }, {
+
+          “color” : null,
+
+          “default” : false,
+
+          “description” : null,
+
+          “isActive” : null,
+
+          “label” : “tesee”,
+
+          “urls” : null,
+
+          “valueName” : “tesee”
+
+        }, {
+
+          “color” : null,
+
+          “default” : false,
+
+          “description” : null,
+
+          “isActive” : null,
+
+          “label” : “test 2”,
+
+          “urls” : null,
+
+          “valueName” : “test 2”
+
+        }, {
+
+          “color” : null,
+
+          “default” : false,
+
+          “description” : null,
+
+          “isActive” : null,
+
+          “label” : “Test 222”,
+
+          “urls” : null,
+
+          “valueName” : “Test 222”
+
+        }, {
+
+          “color” : null,
+
+          “default” : false,
+
+          “description” : null,
+
+          “isActive” : null,
+
+          “label” : “test 33”,
+
+          “urls” : null,
+
+          “valueName” : “test 33”
+
+        }, {
+
+          “color” : null,
+
+          “default” : false,
+
+          “description” : null,
+
+          “isActive” : null,
+
+          “label” : “test 99999”,
+
+          “urls” : null,
+
+          “valueName” : “test 99999”
+
+        }, {
+
+          “color” : null,
+
+          “default” : false,
+
+          “description” : null,
+
+          “isActive” : null,
+
+          “label” : “Testing11”,
+
+          “urls” : null,
+
+          “valueName” : “Testing11”
+
+        }, {
+
+          “color” : null,
+
+          “default” : false,
+
+          “description” : null,
+
+          “isActive” : null,
+
+          “label” : “Testing111”,
+
+          “urls” : null,
+
+          “valueName” : “Testing111”
+
+        }, {
+
+          “color” : null,
+
+          “default” : false,
+
+          “description” : null,
+
+          “isActive” : null,
+
+          “label” : “Vydj”,
+
+          “urls” : null,
+
+          “valueName” : “Vydj”
+
+        }, {
+
+          “color” : null,
+
+          “default” : false,
+
+          “description” : null,
+
+          “isActive” : null,
+
+          “label” : “yeaaaahh”,
+
+          “urls” : null,
+
+          “valueName” : “yeaaaahh”
+
+        },
+
+{
+
+          “color” : null,
+
+          “default” : false,
+
+          “description” : null,
+
+          “isActive” : null,
+
+          “label” : “ayubaa”,
+
+          “urls” : null,
+
+          “valueName” : “ayubaa”
+
+        } ]
+
+      },
+
+      “valueSetName” : null,
+
+      “valueSettings” : [ {
+
+        “controllingFieldValue” : [ “Competitor” ],
+
+        “valueName” : “2222”
+
+      }, {
+
+        “controllingFieldValue” : [ “Competitor” ],
+
+        “valueName” : “Abc”
+
+      }, {
+
+        “controllingFieldValue” : [ “Competitor” ],
+
+        “valueName” : “asdffcd”
+
+      }, {
+
+        “controllingFieldValue” : [ “Competitor” ],
+
+        “valueName” : “Blah Blah”
+
+      }, {
+
+        “controllingFieldValue” : [ “Competitor” ],
+
+        “valueName” : “chab”
+
+      }, {
+
+        “controllingFieldValue” : [ “Competitor” ],
+
+        “valueName” : “com”
+
+      }, {
+
+        “controllingFieldValue” : [ “Competitor” ],
+
+        “valueName” : “list”
+
+      }, {
+
+        “controllingFieldValue” : [ “Competitor” ],
+
+        “valueName” : “Listen”
+
+      }, {
+
+        “controllingFieldValue” : [ “Competitor” ],
+
+        “valueName” : “New Value”
+
+      }, {
+
+        “controllingFieldValue” : [ “Competitor” ],
+
+        “valueName” : “qwerty”
+
+      }, {
+
+        “controllingFieldValue” : [ “Competitor” ],
+
+        “valueName” : “tesee”
+
+      }, {
+
+        “controllingFieldValue” : [ “Competitor” ],
+
+        “valueName” : “test 2”
+
+      }, {
+
+        “controllingFieldValue” : [ “Competitor” ],
+
+        “valueName” : “Test 222”
+
+      }, {
+
+        “controllingFieldValue” : [ “Competitor” ],
+
+        “valueName” : “test 33”
+
+      }, {
+
+        “controllingFieldValue” : [ “Competitor” ],
+
+        “valueName” : “test 99999”
+
+      }, {
+
+        “controllingFieldValue” : [ “Competitor” ],
+
+        “valueName” : “Testing11”
+
+      }, {
+
+        “controllingFieldValue” : [ “Competitor” ],
+
+        “valueName” : “Testing111”
+
+      }, {
+
+        “controllingFieldValue” : [ “Competitor” ],
+
+        “valueName” : “Vydj”
+
+      }, {
+
+        “controllingFieldValue” : [ “Competitor” ],
+
+        “valueName” : “yeaaaahh”
+
+      },
+
+      {
+
+        “controllingFieldValue” : [ “Competitor” ],
+
+        “valueName” : “ayubaa”
+
+      }
+
+      ]
+
+    },
+
+    “visibleLines” : null,
+
+    “writeRequiresMasterRead” : null
+
+  },
+
+  “FullName” : “Opportunity.Competitor__c”
+
+}
